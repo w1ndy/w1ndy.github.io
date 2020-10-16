@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /fuzzy-tribble/
+Sitemap: https://dweng.org/dist/sitemap.xml
+Host: https://dweng.org
